@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="557.56231pt" height="284.553816pt" viewBox="0 0 557.56231 284.553816" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T09:32:32.004050</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 284.553816 
+L 557.56231 284.553816 
+L 557.56231 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 26.788696 91.33615 
+L 250.562134 91.33615 
+L 250.562134 57.06415 
+L 26.788696 57.06415 
+z
+" clip-path="url(#p9cef4e7004)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 26.788696 146.17135 
+L 250.562134 146.17135 
+L 250.562134 111.89935 
+L 26.788696 111.89935 
+z
+" clip-path="url(#p9cef4e7004)" style="fill: #f8e1b7; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 26.788696 201.00655 
+L 250.562134 201.00655 
+L 250.562134 166.73455 
+L 26.788696 166.73455 
+z
+" clip-path="url(#p9cef4e7004)" style="fill: #d2e7db; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 138.675415 93.338 
+Q 138.675415 100.760306 138.675415 106.505561 
+" clip-path="url(#p9cef4e7004)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 141.275415 101.305561 
+L 138.675415 106.505561 
+L 136.075415 101.305561 
+z
+" clip-path="url(#p9cef4e7004)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 138.675415 148.1732 
+Q 138.675415 155.595506 138.675415 161.340761 
+" clip-path="url(#p9cef4e7004)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 141.275415 156.140761 
+L 138.675415 161.340761 
+L 136.075415 156.140761 
+z
+" clip-path="url(#p9cef4e7004)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="43.725025" transform="rotate(-0 138.675415 43.725025)">(a) 아크릴레이트계 광중합의 단계</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="72.692856" transform="rotate(-0 138.675415 72.692856)">광개시제 + UV</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="85.400259" transform="rotate(-0 138.675415 85.400259)">빛 흡수 → 반응성 라디칼 생성</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 11.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="127.533446" transform="rotate(-0 138.675415 127.533446)">아크릴레이트 반응기</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="140.235459" transform="rotate(-0 138.675415 140.235459)">C=C 반응 → 사슬 성장</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="182.363256" transform="rotate(-0 138.675415 182.363256)">다관능 성분의 연결</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="195.070659" transform="rotate(-0 138.675415 195.070659)">가교망 형성 → 수지 형상 고정</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="138.675415" y="229.712142" transform="rotate(-0 138.675415 229.712142)">분자구조를 단순화한 개념도</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 333.534308 238.70575 
+L 543.06 238.70575 
+L 543.06 33.07375 
+L 333.534308 33.07375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 333.534308 238.70575 
+L 333.534308 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="md612db7845" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#md612db7845" x="333.534308" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="333.534308" y="253.714051" transform="rotate(-0 333.534308 253.714051)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 374.218909 238.70575 
+L 374.218909 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#md612db7845" x="374.218909" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="374.218909" y="253.714051" transform="rotate(-0 374.218909 253.714051)">0.2</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 414.903509 238.70575 
+L 414.903509 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#md612db7845" x="414.903509" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="414.903509" y="253.714051" transform="rotate(-0 414.903509 253.714051)">0.4</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 455.588109 238.70575 
+L 455.588109 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#md612db7845" x="455.588109" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="455.588109" y="253.714051" transform="rotate(-0 455.588109 253.714051)">0.6</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 496.27271 238.70575 
+L 496.27271 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#md612db7845" x="496.27271" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="496.27271" y="253.714051" transform="rotate(-0 496.27271 253.714051)">0.8</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 536.95731 238.70575 
+L 536.95731 33.07375 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#md612db7845" x="536.95731" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="536.95731" y="253.714051" transform="rotate(-0 536.95731 253.714051)">1.0</text>
+     </g>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="438.297154" y="269.284246" transform="rotate(-0 438.297154 269.284246)">상대 조사 시간  t / t₀</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <path d="M 333.534308 238.70575 
+L 543.06 238.70575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <defs>
+       <path id="mf4292c3d52" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="238.70575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="242.7099" transform="rotate(-0 326.534308 242.7099)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_15">
+      <path d="M 333.534308 200.62575 
+L 543.06 200.62575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="200.62575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="204.6299" transform="rotate(-0 326.534308 204.6299)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17">
+      <path d="M 333.534308 162.54575 
+L 543.06 162.54575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="162.54575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="166.5499" transform="rotate(-0 326.534308 166.5499)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_19">
+      <path d="M 333.534308 124.46575 
+L 543.06 124.46575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="124.46575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="128.4699" transform="rotate(-0 326.534308 128.4699)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_21">
+      <path d="M 333.534308 86.38575 
+L 543.06 86.38575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="86.38575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="90.3899" transform="rotate(-0 326.534308 90.3899)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_23">
+      <path d="M 333.534308 48.30575 
+L 543.06 48.30575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #d9d9d9; stroke-width: 0.6; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#mf4292c3d52" x="333.534308" y="48.30575" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: end" x="326.534308" y="52.3099" transform="rotate(-0 326.534308 52.3099)">1.0</text>
+     </g>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="304.934308" y="135.88975" transform="rotate(-90 304.934308 135.88975)">상대 조사량  H / (E₀t₀)</text>
+    </g>
+   </g>
+   <g id="line2d_25">
+    <path d="M 333.534308 238.70575 
+L 335.589086 236.782518 
+L 337.643864 234.859285 
+L 339.698642 232.936053 
+L 341.753419 231.012821 
+L 343.808197 229.089588 
+L 345.862975 227.166356 
+L 347.917753 225.243124 
+L 349.972531 223.319891 
+L 352.027308 221.396659 
+L 354.082086 219.473427 
+L 356.136864 217.550194 
+L 358.191642 215.626962 
+L 360.24642 213.70373 
+L 362.301197 211.780497 
+L 364.355975 209.857265 
+L 366.410753 207.934033 
+L 368.465531 206.010801 
+L 370.520309 204.087568 
+L 372.575086 202.164336 
+L 374.629864 200.241104 
+L 376.684642 198.317871 
+L 378.73942 196.394639 
+L 380.794198 194.471407 
+L 382.848975 192.548174 
+L 384.903753 190.624942 
+L 386.958531 188.70171 
+L 389.013309 186.778477 
+L 391.068087 184.855245 
+L 393.122864 182.932013 
+L 395.177642 181.00878 
+L 397.23242 179.085548 
+L 399.287198 177.162316 
+L 401.341976 175.239083 
+L 403.396753 173.315851 
+L 405.451531 171.392619 
+L 407.506309 169.469386 
+L 409.561087 167.546154 
+L 411.615864 165.622922 
+L 413.670642 163.699689 
+L 415.72542 161.776457 
+L 417.780198 159.853225 
+L 419.834976 157.929992 
+L 421.889753 156.00676 
+L 423.944531 154.083528 
+L 425.999309 152.160295 
+L 428.054087 150.237063 
+L 430.108865 148.313831 
+L 432.163642 146.390598 
+L 434.21842 144.467366 
+L 436.273198 142.544134 
+L 438.327976 140.620902 
+L 440.382754 138.697669 
+L 442.437531 136.774437 
+L 444.492309 134.851205 
+L 446.547087 132.927972 
+L 448.601865 131.00474 
+L 450.656643 129.081508 
+L 452.71142 127.158275 
+L 454.766198 125.235043 
+L 456.820976 123.311811 
+L 458.875754 121.388578 
+L 460.930532 119.465346 
+L 462.985309 117.542114 
+L 465.040087 115.618881 
+L 467.094865 113.695649 
+L 469.149643 111.772417 
+L 471.204421 109.849184 
+L 473.259198 107.925952 
+L 475.313976 106.00272 
+L 477.368754 104.079487 
+L 479.423532 102.156255 
+L 481.47831 100.233023 
+L 483.533087 98.30979 
+L 485.587865 96.386558 
+L 487.642643 94.463326 
+L 489.697421 92.540093 
+L 491.752198 90.616861 
+L 493.806976 88.693629 
+L 495.861754 86.770396 
+L 497.916532 84.847164 
+L 499.97131 82.923932 
+L 502.026087 81.000699 
+L 504.080865 79.077467 
+L 506.135643 77.154235 
+L 508.190421 75.231003 
+L 510.245199 73.30777 
+L 512.299976 71.384538 
+L 514.354754 69.461306 
+L 516.409532 67.538073 
+L 518.46431 65.614841 
+L 520.519088 63.691609 
+L 522.573865 61.768376 
+L 524.628643 59.845144 
+L 526.683421 57.921912 
+L 528.738199 55.998679 
+L 530.792977 54.075447 
+L 532.847754 52.152215 
+L 534.902532 50.228982 
+L 536.95731 48.30575 
+" clip-path="url(#pd4dc4e2bd9)" style="fill: none; stroke: #3e7cb1; stroke-width: 2.5; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 333.534308 238.70575 
+L 333.534308 33.07375 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 333.534308 238.70575 
+L 543.06 238.70575 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'" transform="translate(349.808148 61.931047)">H = E₀ × t</text>
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'" transform="translate(349.808148 74.96175)">조사량의 관계식</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9.5px; font-family: 'Arial Unicode MS'; text-anchor: start" x="404.732359" y="208.24175" transform="rotate(-0 404.732359 208.24175)">경화율·실험 결과 곡선 아님</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="438.297154" y="23.07375" transform="rotate(-0 438.297154 23.07375)">(b) 조사 세기가 일정할 때</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9cef4e7004">
+   <rect x="12.96" y="33.07375" width="251.43083" height="205.632"/>
+  </clipPath>
+  <clipPath id="pd4dc4e2bd9">
+   <rect x="333.534308" y="33.07375" width="209.525692" height="205.632"/>
+  </clipPath>
+ </defs>
+</svg>

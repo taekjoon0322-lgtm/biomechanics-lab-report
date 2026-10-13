@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="561.6pt" height="236.592pt" viewBox="0 0 561.6 236.592" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T09:32:32.284886</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 236.592 
+L 561.6 236.592 
+L 561.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.424 93.01536 
+L 137.952 93.01536 
+L 137.952 31.92048 
+L 17.424 31.92048 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 151.344 93.01536 
+L 271.872 93.01536 
+L 271.872 31.92048 
+L 151.344 31.92048 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 285.264 93.01536 
+L 405.792 93.01536 
+L 405.792 31.92048 
+L 285.264 31.92048 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 419.184 93.01536 
+L 539.712 93.01536 
+L 539.712 31.92048 
+L 419.184 31.92048 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 419.184 198.35136 
+L 539.712 198.35136 
+L 539.712 137.25648 
+L 419.184 137.25648 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 285.264 198.35136 
+L 405.792 198.35136 
+L 405.792 137.25648 
+L 285.264 137.25648 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 151.344 198.35136 
+L 271.872 198.35136 
+L 271.872 137.25648 
+L 151.344 137.25648 
+z
+" clip-path="url(#p404e804b48)" style="fill: #f2f5f7; stroke: #555555; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 140.847388 63.099936 
+Q 144.426738 63.099936 146.329037 63.099936 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 141.129037 60.499936 
+L 146.329037 63.099936 
+L 141.129037 65.699936 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 274.767388 63.099936 
+Q 278.346738 63.099936 280.249037 63.099936 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 275.049037 60.499936 
+L 280.249037 63.099936 
+L 275.049037 65.699936 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 408.687388 63.099936 
+Q 412.266738 63.099936 414.169037 63.099936 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 408.969037 60.499936 
+L 414.169037 63.099936 
+L 408.969037 65.699936 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 479.448 97.122692 
+Q 479.448 115.558781 479.448 132.317818 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 482.048 127.117818 
+L 479.448 132.317818 
+L 476.848 127.117818 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 415.842212 167.593248 
+Q 412.262862 167.593248 410.360563 167.593248 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 415.560563 170.193248 
+L 410.360563 167.593248 
+L 415.560563 164.993248 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 281.922212 167.593248 
+Q 278.342862 167.593248 276.440563 167.593248 
+" clip-path="url(#p404e804b48)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 281.640563 170.193248 
+L 276.440563 167.593248 
+L 281.640563 164.993248 
+z
+" clip-path="url(#p404e804b48)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="29.9232" y="48.252853" transform="rotate(-0 29.9232 48.252853)">1</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="80.8128" y="57.305895" transform="rotate(-0 80.8128 57.305895)">PET 절단</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="77.688" y="79.616131" transform="rotate(-0 77.688 79.616131)">원판을 덮는 크기</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="163.8432" y="48.252853" transform="rotate(-0 163.8432 48.252853)">2</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="214.7328" y="57.311052" transform="rotate(-0 214.7328 57.311052)">세척과 건조</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="211.608" y="79.616131" transform="rotate(-0 211.608 79.616131)">먼지·잔류액 제거</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="297.7632" y="48.252853" transform="rotate(-0 297.7632 48.252853)">3</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="348.6528" y="56.848708" transform="rotate(-0 348.6528 56.848708)">311RM 도포</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="345.528" y="79.616131" transform="rotate(-0 345.528 79.616131)">필요량·위치 기록</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="431.6832" y="48.252853" transform="rotate(-0 431.6832 48.252853)">4</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="482.5728" y="57.305895" transform="rotate(-0 482.5728 57.305895)">롤러 밀착</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="479.448" y="79.616131" transform="rotate(-0 479.448 79.616131)">수지 분포·기포 확인</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="431.6832" y="153.588853" transform="rotate(-0 431.6832 153.588853)">5</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="482.5728" y="162.641895" transform="rotate(-0 482.5728 162.641895)">UV 경화</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="479.448" y="184.956631" transform="rotate(-0 479.448 184.956631)">파장·세기·시간 기록</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="297.7632" y="153.588853" transform="rotate(-0 297.7632 153.588853)">6</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="348.6528" y="162.641895" transform="rotate(-0 348.6528 162.641895)">탈형</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="345.528" y="184.956631" transform="rotate(-0 345.528 184.956631)">가장자리에서 분리</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="163.8432" y="153.588853" transform="rotate(-0 163.8432 153.588853)">7</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="214.7328" y="162.647052" transform="rotate(-0 214.7328 162.647052)">라벨링</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9.6px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="211.608" y="184.952131" transform="rotate(-0 211.608 184.952131)">시편·조건 연결</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'" transform="translate(21.610062 161.885051)">준비 → 접촉 → 경화</text>
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'" transform="translate(32.999125 173.72177)">→ 분리 → 기록</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p404e804b48">
+   <rect x="12.96" y="12.96" width="535.68" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

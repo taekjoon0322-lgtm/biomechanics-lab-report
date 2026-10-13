@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="561.6pt" height="369.648pt" viewBox="0 0 561.6 369.648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T09:32:32.161953</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 369.648 
+L 561.6 369.648 
+L 561.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 30.987692 128.5776 
+L 49.015385 128.5776 
+L 49.015385 114.516 
+L 61.892308 114.516 
+L 61.892308 128.5776 
+L 83.783077 128.5776 
+L 83.783077 114.516 
+L 96.66 114.516 
+L 96.66 128.5776 
+L 118.550769 128.5776 
+L 118.550769 114.516 
+L 131.427692 114.516 
+L 131.427692 128.5776 
+L 153.318462 128.5776 
+L 153.318462 114.516 
+L 166.195385 114.516 
+L 166.195385 128.5776 
+L 188.086154 128.5776 
+L 188.086154 114.516 
+L 200.963077 114.516 
+L 200.963077 128.5776 
+L 222.853846 128.5776 
+L 222.853846 114.516 
+L 235.730769 114.516 
+L 235.730769 128.5776 
+L 239.593846 128.5776 
+L 239.593846 152.0136 
+L 30.987692 152.0136 
+z
+" clip-path="url(#p5fe50ff8a8)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 127.564615 114.516 
+C 131.526015 114.516 135.3257 112.606358 138.126833 109.20765 
+C 140.927965 105.808942 142.501846 101.198659 142.501846 96.39216 
+C 142.501846 91.585661 140.927965 86.975378 138.126833 83.57667 
+C 135.3257 80.177962 131.526015 78.26832 127.564615 78.26832 
+C 123.603215 78.26832 119.803531 80.177962 117.002398 83.57667 
+C 114.201265 86.975378 112.627385 91.585661 112.627385 96.39216 
+C 112.627385 101.198659 114.201265 105.808942 117.002398 109.20765 
+C 119.803531 112.606358 123.603215 114.516 127.564615 114.516 
+z
+" clip-path="url(#p5fe50ff8a8)" style="fill: #efbd67; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="141.729231" y="27.68805" transform="rotate(-0 141.729231 27.68805)">(a) 원판 위 수지 도포</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="131.427692" y="72.681927" transform="rotate(-0 131.427692 72.681927)">액상 PUA</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="141.729231" y="165.48501" transform="rotate(-0 141.729231 165.48501)">원판의 요철</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_4">
+    <path d="M 309.129231 128.5776 
+L 327.156923 128.5776 
+L 327.156923 114.516 
+L 340.033846 114.516 
+L 340.033846 128.5776 
+L 361.924615 128.5776 
+L 361.924615 114.516 
+L 374.801538 114.516 
+L 374.801538 128.5776 
+L 396.692308 128.5776 
+L 396.692308 114.516 
+L 409.569231 114.516 
+L 409.569231 128.5776 
+L 431.46 128.5776 
+L 431.46 114.516 
+L 444.336923 114.516 
+L 444.336923 128.5776 
+L 466.227692 128.5776 
+L 466.227692 114.516 
+L 479.104615 114.516 
+L 479.104615 128.5776 
+L 500.995385 128.5776 
+L 500.995385 114.516 
+L 513.872308 114.516 
+L 513.872308 128.5776 
+L 517.735385 128.5776 
+L 517.735385 152.0136 
+L 309.129231 152.0136 
+z
+" clip-path="url(#p9ce4d9a946)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 309.129231 128.5776 
+L 327.156923 128.5776 
+L 327.156923 114.516 
+L 340.033846 114.516 
+L 340.033846 128.5776 
+L 361.924615 128.5776 
+L 361.924615 114.516 
+L 374.801538 114.516 
+L 374.801538 128.5776 
+L 396.692308 128.5776 
+L 396.692308 114.516 
+L 409.569231 114.516 
+L 409.569231 128.5776 
+L 431.46 128.5776 
+L 431.46 114.516 
+L 444.336923 114.516 
+L 444.336923 128.5776 
+L 466.227692 128.5776 
+L 466.227692 114.516 
+L 479.104615 114.516 
+L 479.104615 128.5776 
+L 500.995385 128.5776 
+L 500.995385 114.516 
+L 513.872308 114.516 
+L 513.872308 128.5776 
+L 517.735385 128.5776 
+L 517.735385 86.3928 
+L 309.129231 86.3928 
+z
+" clip-path="url(#p9ce4d9a946)" style="fill: #efbd67; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 309.129231 86.3928 
+L 517.735385 86.3928 
+L 517.735385 78.5808 
+L 309.129231 78.5808 
+z
+" clip-path="url(#p9ce4d9a946)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 344.610404 58.2696 
+Q 417.295297 58.2696 488.30314 58.2696 
+" clip-path="url(#p9ce4d9a946)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 483.10314 55.6696 
+L 488.30314 58.2696 
+L 483.10314 60.8696 
+z
+" clip-path="url(#p9ce4d9a946)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="27.693675" transform="rotate(-0 419.870769 27.693675)">(b) PET 접촉과 수지 펼침</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="50.497058" transform="rotate(-0 419.870769 50.497058)">밀착 방향의 예</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="497.132308" y="73.359132" transform="rotate(-0 497.132308 73.359132)">PET</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="104.868578" transform="rotate(-0 419.870769 104.868578)">요철과 접촉한 PUA</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 30.987692 316.0656 
+L 49.015385 316.0656 
+L 49.015385 302.004 
+L 61.892308 302.004 
+L 61.892308 316.0656 
+L 83.783077 316.0656 
+L 83.783077 302.004 
+L 96.66 302.004 
+L 96.66 316.0656 
+L 118.550769 316.0656 
+L 118.550769 302.004 
+L 131.427692 302.004 
+L 131.427692 316.0656 
+L 153.318462 316.0656 
+L 153.318462 302.004 
+L 166.195385 302.004 
+L 166.195385 316.0656 
+L 188.086154 316.0656 
+L 188.086154 302.004 
+L 200.963077 302.004 
+L 200.963077 316.0656 
+L 222.853846 316.0656 
+L 222.853846 302.004 
+L 235.730769 302.004 
+L 235.730769 316.0656 
+L 239.593846 316.0656 
+L 239.593846 339.5016 
+L 30.987692 339.5016 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 30.987692 316.0656 
+L 49.015385 316.0656 
+L 49.015385 302.004 
+L 61.892308 302.004 
+L 61.892308 316.0656 
+L 83.783077 316.0656 
+L 83.783077 302.004 
+L 96.66 302.004 
+L 96.66 316.0656 
+L 118.550769 316.0656 
+L 118.550769 302.004 
+L 131.427692 302.004 
+L 131.427692 316.0656 
+L 153.318462 316.0656 
+L 153.318462 302.004 
+L 166.195385 302.004 
+L 166.195385 316.0656 
+L 188.086154 316.0656 
+L 188.086154 302.004 
+L 200.963077 302.004 
+L 200.963077 316.0656 
+L 222.853846 316.0656 
+L 222.853846 302.004 
+L 235.730769 302.004 
+L 235.730769 316.0656 
+L 239.593846 316.0656 
+L 239.593846 273.8808 
+L 30.987692 273.8808 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #e79a35; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 30.987692 273.8808 
+L 239.593846 273.8808 
+L 239.593846 266.0688 
+L 30.987692 266.0688 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 69.618462 236.82129 
+Q 69.618462 248.101584 69.618462 257.14581 
+" clip-path="url(#pefd40ea91a)" style="fill: none; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 72.218462 251.94581 
+L 69.618462 257.14581 
+L 67.018462 251.94581 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #3e7cb1; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 136.578462 236.82129 
+Q 136.578462 248.101584 136.578462 257.14581 
+" clip-path="url(#pefd40ea91a)" style="fill: none; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 139.178462 251.94581 
+L 136.578462 257.14581 
+L 133.978462 251.94581 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #3e7cb1; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 203.538462 236.82129 
+Q 203.538462 248.101584 203.538462 257.14581 
+" clip-path="url(#pefd40ea91a)" style="fill: none; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 206.138462 251.94581 
+L 203.538462 257.14581 
+L 200.938462 251.94581 
+z
+" clip-path="url(#pefd40ea91a)" style="fill: #3e7cb1; stroke: #3e7cb1; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="141.729231" y="215.181675" transform="rotate(-0 141.729231 215.181675)">(c) 접촉 상태에서 UV 조사</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="141.729231" y="291.417927" transform="rotate(-0 141.729231 291.417927)">가교망 형성</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_14">
+    <path d="M 309.129231 316.0656 
+L 327.156923 316.0656 
+L 327.156923 302.004 
+L 340.033846 302.004 
+L 340.033846 316.0656 
+L 361.924615 316.0656 
+L 361.924615 302.004 
+L 374.801538 302.004 
+L 374.801538 316.0656 
+L 396.692308 316.0656 
+L 396.692308 302.004 
+L 409.569231 302.004 
+L 409.569231 316.0656 
+L 431.46 316.0656 
+L 431.46 302.004 
+L 444.336923 302.004 
+L 444.336923 316.0656 
+L 466.227692 316.0656 
+L 466.227692 302.004 
+L 479.104615 302.004 
+L 479.104615 316.0656 
+L 500.995385 316.0656 
+L 500.995385 302.004 
+L 513.872308 302.004 
+L 513.872308 316.0656 
+L 517.735385 316.0656 
+L 517.735385 339.5016 
+L 309.129231 339.5016 
+z
+" clip-path="url(#p154f25bb18)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 309.129231 272.3184 
+L 327.156923 272.3184 
+L 327.156923 258.2568 
+L 340.033846 258.2568 
+L 340.033846 272.3184 
+L 361.924615 272.3184 
+L 361.924615 258.2568 
+L 374.801538 258.2568 
+L 374.801538 272.3184 
+L 396.692308 272.3184 
+L 396.692308 258.2568 
+L 409.569231 258.2568 
+L 409.569231 272.3184 
+L 431.46 272.3184 
+L 431.46 258.2568 
+L 444.336923 258.2568 
+L 444.336923 272.3184 
+L 466.227692 272.3184 
+L 466.227692 258.2568 
+L 479.104615 258.2568 
+L 479.104615 272.3184 
+L 500.995385 272.3184 
+L 500.995385 258.2568 
+L 513.872308 258.2568 
+L 513.872308 272.3184 
+L 517.735385 272.3184 
+L 517.735385 233.2584 
+L 309.129231 233.2584 
+z
+" clip-path="url(#p154f25bb18)" style="fill: #e79a35; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 309.129231 233.2584 
+L 517.735385 233.2584 
+L 517.735385 225.4464 
+L 309.129231 225.4464 
+z
+" clip-path="url(#p154f25bb18)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 530.612308 284.384087 
+Q 530.612308 268.414973 530.612308 254.12291 
+" clip-path="url(#p154f25bb18)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 528.012308 259.32291 
+L 530.612308 254.12291 
+L 533.212308 259.32291 
+z
+" clip-path="url(#p154f25bb18)" style="fill: #333333; stroke: #333333; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="215.17605" transform="rotate(-0 419.870769 215.17605)">(d) 분리 후 상보적 형상 유지</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="289.53957" transform="rotate(-0 419.870769 289.53957)">PUA 패턴면</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="419.870769" y="352.97301" transform="rotate(-0 419.870769 352.97301)">원판</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5fe50ff8a8">
+   <rect x="12.96" y="12.96" width="257.538462" height="156.24"/>
+  </clipPath>
+  <clipPath id="p9ce4d9a946">
+   <rect x="291.101538" y="12.96" width="257.538462" height="156.24"/>
+  </clipPath>
+  <clipPath id="pefd40ea91a">
+   <rect x="12.96" y="200.448" width="257.538462" height="156.24"/>
+  </clipPath>
+  <clipPath id="p154f25bb18">
+   <rect x="291.101538" y="200.448" width="257.538462" height="156.24"/>
+  </clipPath>
+ </defs>
+</svg>

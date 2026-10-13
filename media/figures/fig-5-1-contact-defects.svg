@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="561.6pt" height="210.06558pt" viewBox="0 0 561.6 210.06558" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T09:32:32.386769</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 210.06558 
+L 561.6 210.06558 
+L 561.6 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 24.254458 143.0592 
+L 35.548916 143.0592 
+L 35.548916 124.764 
+L 43.616386 124.764 
+L 43.616386 143.0592 
+L 57.331084 143.0592 
+L 57.331084 124.764 
+L 65.398554 124.764 
+L 65.398554 143.0592 
+L 79.113253 143.0592 
+L 79.113253 124.764 
+L 87.180723 124.764 
+L 87.180723 143.0592 
+L 100.895422 143.0592 
+L 100.895422 124.764 
+L 108.962892 124.764 
+L 108.962892 143.0592 
+L 122.67759 143.0592 
+L 122.67759 124.764 
+L 130.74506 124.764 
+L 130.74506 143.0592 
+L 144.459759 143.0592 
+L 144.459759 124.764 
+L 152.527229 124.764 
+L 152.527229 143.0592 
+L 154.94747 143.0592 
+L 154.94747 173.5512 
+L 24.254458 173.5512 
+z
+" clip-path="url(#p5bbe86c29c)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 24.254458 143.0592 
+L 35.548916 143.0592 
+L 35.548916 124.764 
+L 43.616386 124.764 
+L 43.616386 143.0592 
+L 57.331084 143.0592 
+L 57.331084 124.764 
+L 65.398554 124.764 
+L 65.398554 143.0592 
+L 79.113253 143.0592 
+L 79.113253 124.764 
+L 87.180723 124.764 
+L 87.180723 143.0592 
+L 100.895422 143.0592 
+L 100.895422 124.764 
+L 108.962892 124.764 
+L 108.962892 143.0592 
+L 122.67759 143.0592 
+L 122.67759 124.764 
+L 130.74506 124.764 
+L 130.74506 143.0592 
+L 144.459759 143.0592 
+L 144.459759 124.764 
+L 152.527229 124.764 
+L 152.527229 143.0592 
+L 154.94747 143.0592 
+L 154.94747 92.2392 
+L 24.254458 92.2392 
+z
+" clip-path="url(#p5bbe86c29c)" style="fill: #efbd67; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 24.254458 92.2392 
+L 154.94747 92.2392 
+L 154.94747 82.88832 
+L 24.254458 82.88832 
+z
+" clip-path="url(#p5bbe86c29c)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="93.634699" y="32.20053" transform="rotate(-0 93.634699 32.20053)">(a) 균일한 접촉</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="93.634699" y="66.93957" transform="rotate(-0 93.634699 66.93957)">수지가 표면 구조와 접촉</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="93.634699" y="195.00597" transform="rotate(-0 93.634699 195.00597)">접촉면의 형상 고정</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 211.419759 143.0592 
+L 222.714217 143.0592 
+L 222.714217 124.764 
+L 230.781687 124.764 
+L 230.781687 143.0592 
+L 244.496386 143.0592 
+L 244.496386 124.764 
+L 252.563855 124.764 
+L 252.563855 143.0592 
+L 266.278554 143.0592 
+L 266.278554 124.764 
+L 274.346024 124.764 
+L 274.346024 143.0592 
+L 288.060723 143.0592 
+L 288.060723 124.764 
+L 296.128193 124.764 
+L 296.128193 143.0592 
+L 309.842892 143.0592 
+L 309.842892 124.764 
+L 317.910361 124.764 
+L 317.910361 143.0592 
+L 331.62506 143.0592 
+L 331.62506 124.764 
+L 339.69253 124.764 
+L 339.69253 143.0592 
+L 342.112771 143.0592 
+L 342.112771 173.5512 
+L 211.419759 173.5512 
+z
+" clip-path="url(#p516ea344a6)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 211.419759 143.0592 
+L 222.714217 143.0592 
+L 222.714217 124.764 
+L 230.781687 124.764 
+L 230.781687 143.0592 
+L 244.496386 143.0592 
+L 244.496386 124.764 
+L 252.563855 124.764 
+L 252.563855 143.0592 
+L 266.278554 143.0592 
+L 266.278554 124.764 
+L 274.346024 124.764 
+L 274.346024 143.0592 
+L 288.060723 143.0592 
+L 288.060723 124.764 
+L 296.128193 124.764 
+L 296.128193 143.0592 
+L 309.842892 143.0592 
+L 309.842892 124.764 
+L 317.910361 124.764 
+L 317.910361 143.0592 
+L 331.62506 143.0592 
+L 331.62506 124.764 
+L 339.69253 124.764 
+L 339.69253 143.0592 
+L 342.112771 143.0592 
+L 342.112771 92.2392 
+L 211.419759 92.2392 
+z
+" clip-path="url(#p516ea344a6)" style="fill: #efbd67; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 211.419759 92.2392 
+L 342.112771 92.2392 
+L 342.112771 82.88832 
+L 211.419759 82.88832 
+z
+" clip-path="url(#p516ea344a6)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 275.152771 143.0592 
+L 287.253976 143.0592 
+L 287.253976 118.6656 
+L 284.833735 100.3704 
+L 279.993253 96.3048 
+L 275.636819 110.5344 
+z
+" clip-path="url(#p516ea344a6)" style="fill: #ffffff; stroke: #bc4b51; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 305.35024 73.460217 
+Q 295.322429 85.733036 286.355729 96.707185 
+" clip-path="url(#p516ea344a6)" style="fill: none; stroke: #bc4b51; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 291.659275 94.325506 
+L 286.355729 96.707185 
+L 287.632513 91.035341 
+z
+" clip-path="url(#p516ea344a6)" style="fill: #bc4b51; stroke: #bc4b51; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="280.8" y="32.20053" transform="rotate(-0 280.8 32.20053)">(b) 갇힌 기포</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="280.8" y="60.84117" transform="rotate(-0 280.8 60.84117)">수지가 닿지 않는 영역</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="280.8" y="195.00597" transform="rotate(-0 280.8 195.00597)">국부적 미복제 가능성</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_10">
+    <path d="M 398.58506 143.0592 
+L 409.879518 143.0592 
+L 409.879518 124.764 
+L 417.946988 124.764 
+L 417.946988 143.0592 
+L 431.661687 143.0592 
+L 431.661687 124.764 
+L 439.729157 124.764 
+L 439.729157 143.0592 
+L 453.443855 143.0592 
+L 453.443855 124.764 
+L 461.511325 124.764 
+L 461.511325 143.0592 
+L 475.226024 143.0592 
+L 475.226024 124.764 
+L 483.293494 124.764 
+L 483.293494 143.0592 
+L 497.008193 143.0592 
+L 497.008193 124.764 
+L 505.075663 124.764 
+L 505.075663 143.0592 
+L 518.790361 143.0592 
+L 518.790361 124.764 
+L 526.857831 124.764 
+L 526.857831 143.0592 
+L 529.278072 143.0592 
+L 529.278072 173.5512 
+L 398.58506 173.5512 
+z
+" clip-path="url(#p228377aeee)" style="fill: #737e88; stroke: #333333; stroke-width: 1.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 398.58506 143.0592 
+L 409.879518 143.0592 
+L 409.879518 124.764 
+L 417.946988 124.764 
+L 417.946988 143.0592 
+L 431.661687 143.0592 
+L 431.661687 124.764 
+L 439.729157 124.764 
+L 439.729157 143.0592 
+L 453.443855 143.0592 
+L 453.443855 124.764 
+L 461.511325 124.764 
+L 461.511325 143.0592 
+L 475.226024 143.0592 
+L 475.226024 124.764 
+L 483.293494 124.764 
+L 483.293494 143.0592 
+L 497.008193 143.0592 
+L 497.008193 124.764 
+L 505.075663 124.764 
+L 505.075663 143.0592 
+L 518.790361 143.0592 
+L 518.790361 124.764 
+L 526.857831 124.764 
+L 526.857831 143.0592 
+L 529.278072 143.0592 
+L 529.278072 92.2392 
+L 398.58506 92.2392 
+z
+" clip-path="url(#p228377aeee)" style="fill: #efbd67; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 398.58506 92.2392 
+L 529.278072 92.2392 
+L 529.278072 82.88832 
+L 398.58506 82.88832 
+z
+" clip-path="url(#p228377aeee)" style="fill: #c8e2f4; stroke: #444444; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 462.318072 143.0592 
+L 467.158554 114.6 
+L 474.419277 143.0592 
+z
+" clip-path="url(#p228377aeee)" style="fill: #bc4b51; stroke: #bc4b51; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="467.965301" y="32.20053" transform="rotate(-0 467.965301 32.20053)">(c) 먼지의 접촉 방해</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="467.965301" y="60.84117" transform="rotate(-0 467.965301 60.84117)">국부적 접촉 방해</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'Arial Unicode MS'; text-anchor: middle" x="467.965301" y="195.00597" transform="rotate(-0 467.965301 195.00597)">요철 왜곡·이물 흔적 가능성</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p5bbe86c29c">
+   <rect x="12.96" y="12.96" width="161.349398" height="182.952"/>
+  </clipPath>
+  <clipPath id="p516ea344a6">
+   <rect x="200.125301" y="12.96" width="161.349398" height="182.952"/>
+  </clipPath>
+  <clipPath id="p228377aeee">
+   <rect x="387.290602" y="12.96" width="161.349398" height="182.952"/>
+  </clipPath>
+ </defs>
+</svg>

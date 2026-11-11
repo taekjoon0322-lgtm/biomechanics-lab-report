@@ -17,3 +17,4 @@
 ## 날짜별 실험일지
 
 - [10월 15일 — 10:1 혼합·진공 탈포·열경화](records/2026-10-15-mixing-degassing-curing.md)
+- [11월 11일 — 실습 5: 토양재배 및 파종](records/2026-11-11-soil-cultivation-and-seeding.md)
